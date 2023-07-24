@@ -1,0 +1,45 @@
+.carousel-item img{
+    width: auto;
+    height: 47rem;
+    position: static;
+}
+
+.carousel-item p{
+    position: absolute;
+    left: 4em;
+    bottom: 3em;
+    color: black;
+    font-size: 100px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 0.5em;
+}
+
+.title{
+    position: absolute;
+    outline: solid 1px black;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    text-align: left;
+    text-decoration: none;
+}
+
+.sections{
+    text-align: right;
+    text-decoration: none;
+}
+
+.img-header img{
+    width: auto;
+    height: 72px;
+    position: static;
+}
+
+.work-and-courses img{
+    width: auto;
+    height: 72px;
+    position: static;
+}
